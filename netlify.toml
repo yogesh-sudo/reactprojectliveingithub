@@ -1,5 +1,6 @@
 [build]
-command ="CI=false && npm run build"
+command ="npm run build"
+CI= npm build
 publish = "/build"
 base = "/"
 [[redirects]]
