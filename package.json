@@ -1,7 +1,7 @@
 {
   "name": "themezhub",
   "version": "0.1.0",
-  "homepage": "https://yogesh-sudo.github.io/reactprojectliveingithub/",
+  "homepage": "https://yogesh-sudo.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
